@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Steff075
-- 👀 I’m interested in X-ray Astronomy and data science
-- 🌱 I’m currently completing my PhD in Astrophysics of reverbeating active galaxies
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in X-ray Astronomy and reverberation in active galaxies
+- 🌱 I’m currently completing my PhD in Astrophysics 
 - 📫 You can reach me at steff.hancock@hotmail.com
 
 <!---
