@@ -1,5 +1,4 @@
-Hi, I’m @Steff075
-I’m interested in X-ray Astronomy and reverberation in active galaxies
+My interests are in X-ray Astronomy and the physics of reverberation in active galaxies.
 You can reach me at steff.hancock@hotmail.com
 
 <!---
